@@ -1,0 +1,24 @@
+com.example.yatrasahayatri.app-jetified-play-services-maps-18.2.0-0 C:\Users\rr964\.gradle\caches\transforms-3\30cc642bd3b9595c2bfd6cdf9bf045e7\transformed\jetified-play-services-maps-18.2.0\res
+com.example.yatrasahayatri.app-jetified-annotation-experimental-1.3.0-1 C:\Users\rr964\.gradle\caches\transforms-3\756eaf850948ac400d087a6d40ec2427\transformed\jetified-annotation-experimental-1.3.0\res
+com.example.yatrasahayatri.app-jetified-window-java-1.0.0-beta04-2 C:\Users\rr964\.gradle\caches\transforms-3\7db8d31e60bf980cc89086f1a8050fa4\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.yatrasahayatri.app-jetified-window-1.0.0-beta04-3 C:\Users\rr964\.gradle\caches\transforms-3\957e0b2e452142d537be7f873b242c80\transformed\jetified-window-1.0.0-beta04\res
+com.example.yatrasahayatri.app-lifecycle-runtime-2.3.1-4 C:\Users\rr964\.gradle\caches\transforms-3\bb0d92710664e865eb1df5b0654368f0\transformed\lifecycle-runtime-2.3.1\res
+com.example.yatrasahayatri.app-jetified-play-services-base-18.1.0-5 C:\Users\rr964\.gradle\caches\transforms-3\c5658ce605f804c5c02ce205f3542afc\transformed\jetified-play-services-base-18.1.0\res
+com.example.yatrasahayatri.app-jetified-play-services-basement-18.1.0-6 C:\Users\rr964\.gradle\caches\transforms-3\d4e09726596a0c57b8adf36a3a47a112\transformed\jetified-play-services-basement-18.1.0\res
+com.example.yatrasahayatri.app-core-1.9.0-7 C:\Users\rr964\.gradle\caches\transforms-3\f0a9b92f25ff5866fca7a3f2dfcb5fdd\transformed\core-1.9.0\res
+com.example.yatrasahayatri.app-debug-8 D:\Complete fyp\yatrasahayatri\yatrasahayatri\android\app\src\debug\res
+com.example.yatrasahayatri.app-main-9 D:\Complete fyp\yatrasahayatri\yatrasahayatri\android\app\src\main\res
+com.example.yatrasahayatri.app-pngs-10 D:\Complete fyp\yatrasahayatri\yatrasahayatri\build\app\generated\res\pngs\debug
+com.example.yatrasahayatri.app-resValues-11 D:\Complete fyp\yatrasahayatri\yatrasahayatri\build\app\generated\res\resValues\debug
+com.example.yatrasahayatri.app-rs-12 D:\Complete fyp\yatrasahayatri\yatrasahayatri\build\app\generated\res\rs\debug
+com.example.yatrasahayatri.app-mergeDebugResources-13 D:\Complete fyp\yatrasahayatri\yatrasahayatri\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.yatrasahayatri.app-mergeDebugResources-14 D:\Complete fyp\yatrasahayatri\yatrasahayatri\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.yatrasahayatri.app-merged_res-15 D:\Complete fyp\yatrasahayatri\yatrasahayatri\build\app\intermediates\merged_res\debug
+com.example.yatrasahayatri.app-packaged_res-16 D:\Complete fyp\yatrasahayatri\yatrasahayatri\build\connectivity_plus\intermediates\packaged_res\debug
+com.example.yatrasahayatri.app-packaged_res-17 D:\Complete fyp\yatrasahayatri\yatrasahayatri\build\flutter_plugin_android_lifecycle\intermediates\packaged_res\debug
+com.example.yatrasahayatri.app-packaged_res-18 D:\Complete fyp\yatrasahayatri\yatrasahayatri\build\geolocator_android\intermediates\packaged_res\debug
+com.example.yatrasahayatri.app-packaged_res-19 D:\Complete fyp\yatrasahayatri\yatrasahayatri\build\google_api_headers\intermediates\packaged_res\debug
+com.example.yatrasahayatri.app-packaged_res-20 D:\Complete fyp\yatrasahayatri\yatrasahayatri\build\google_maps_flutter_android\intermediates\packaged_res\debug
+com.example.yatrasahayatri.app-packaged_res-21 D:\Complete fyp\yatrasahayatri\yatrasahayatri\build\package_info_plus\intermediates\packaged_res\debug
+com.example.yatrasahayatri.app-packaged_res-22 D:\Complete fyp\yatrasahayatri\yatrasahayatri\build\permission_handler_android\intermediates\packaged_res\debug
+com.example.yatrasahayatri.app-packaged_res-23 D:\Complete fyp\yatrasahayatri\yatrasahayatri\build\shared_preferences_android\intermediates\packaged_res\debug
